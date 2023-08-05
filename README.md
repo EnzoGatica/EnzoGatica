@@ -10,6 +10,23 @@
 - 🌱 I’m currently learning Java/ Kotlin mobile development
 - ⚡ I love traveling✈️, programming💻, mobile apps and being near the sea🌊
 
+#### Languages and Tools 
+
+<p>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/html-5.svg" alt="HTML"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/css-3.svg"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/javascript.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/python-5.svg" alt="Python"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/git-icon.svg" alt="git"></code>
+  <code><img height="27" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/java-4.svg" alt="java"></code>
+  <code><img height="27" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/kotlin.svg" alt="kotlin"></code>
+  <code><img height="26" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/androidstudio.svg" alt="androidstudio"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/power-bi-1.svg" alt="Power BI"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/excel.svg" alt="excel"></code>
+  <code><img height="25" src="https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/visual-studio-code-1.svg"></code>
+</p>
+
+
 <br/>
 
 <a href="https://github.com/EnzoGatica">
