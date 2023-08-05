@@ -2,11 +2,13 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/enzo-gatica-3ab264230/" target="_blank" rel="noopener noreferrer">Enzo Gatica</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
+<a href="https://github.com/EnzoGatica"><img align='right' src='https://github.com/EnzoGatica/EnzoGatica/blob/main/svg/pulpitogit.gif' width='150"'></a></h2>
+
 **About Me**
 
--🎓 I am a computer and information technology engineer
--🌱 I am currently learning Java/ Kotlin mobile development
--⚡ I love viajar✈️, programming💻, mobile apps and being near the sea🌊
+- 🎓 I'm a computer and information technology engineer
+- 🌱 I’m currently learning Java/ Kotlin mobile development
+- ⚡ I love viajar✈️, programming💻, mobile apps and being near the sea🌊
 
 <br/>
 
