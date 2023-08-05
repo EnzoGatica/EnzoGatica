@@ -6,7 +6,7 @@
 
 **About Me**
 
-- 🎓 I'm a computer and information technology engineer
+- 🎓 I'm a computer engineer
 - 🌱 I’m currently learning Java/ Kotlin mobile development
 - ⚡ I love traveling✈️, programming💻, mobile apps and being near the sea🌊
 
