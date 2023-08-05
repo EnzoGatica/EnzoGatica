@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/enzo-gatica-3ab264230/" target="_blank" rel="noopener noreferrer">Enzo Gatica</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-
+**About Me**
 
 🎓 I am a computer and information technology engineer.
 🌱 I am currently learning Java/ Kotlin mobile development.
