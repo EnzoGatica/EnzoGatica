@@ -37,6 +37,24 @@
 <br/>
 
 
+<h1 align="center">
+✨ where you can find me ✨
+  <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/fisdiaz/">
+    <img src="https://img.shields.io/badge/Linkedin-fisdiaz-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/saithre_fs/">
+    <img src="https://img.shields.io/badge/instagram-saithre_fs-red">
+  </a>
+  
+  <a href="https://drive.google.com/file/d/1_b98fVR4aJIloNPpS5zi891No_0jMcXk/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Design-Portfolio-orange">
+  </a>
+</p>
+</h1>
+
+
 
 <!--
 **EnzoGatica/EnzoGatica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
