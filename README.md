@@ -9,6 +9,7 @@
 - 🎓 I'm a computer engineer
 - 🌱 I’m currently learning Java/ Kotlin mobile development
 - ⚡ I love traveling✈️, programming💻, mobile apps and being near the sea🌊
+- 💌 Contact me at [Enzogatica96@gmail.com](mailto:enzogatica96@gmail.com).
 
 #### Languages and Tools 
 
@@ -40,16 +41,8 @@
 <h1 align="center">
 ✨ where you can find me ✨
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/fisdiaz/">
-    <img src="https://img.shields.io/badge/Linkedin-fisdiaz-blue">
-  </a>
-  
-  <a href="https://www.instagram.com/saithre_fs/">
-    <img src="https://img.shields.io/badge/instagram-saithre_fs-red">
-  </a>
-  
-  <a href="https://drive.google.com/file/d/1_b98fVR4aJIloNPpS5zi891No_0jMcXk/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Design-Portfolio-orange">
+   <a href="https://www.linkedin.com/in/enzo-gatica-3ab264230">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 </h1>
