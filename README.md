@@ -41,7 +41,7 @@
 <h1 align="center">
 ✨ where you can find me ✨
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/enzo-gatica-3ab264230">
+   <a href="www.linkedin.com/in/enzogatica">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
