@@ -3,6 +3,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;enzo_gatica+%E2%80%94+full+stack+engineer+%F0%9F%87%A8%F0%9F%87%B1;%24+current_job;frontend+dev+%40+Prompt+and+Plai" alt="Typing SVG" />
 </div>
 
+<!-- DINO RUNNER -->
+<div align="center">
+
+```
+HI 00078  00152
+
+🦕  ☁️        ☁️                          🌵
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
 ---
 
 ## Hi there, I'm [Enzo Gatica](https://www.linkedin.com/in/enzogatica) 👋
@@ -56,16 +68,16 @@
 
 ### GitHub Stats
 
-<a href="https://github.com/EnzoGatica">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
-</a>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+</div>
 
 ---
 
 ### ✨ Where you can find me ✨
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/enzogatica">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
