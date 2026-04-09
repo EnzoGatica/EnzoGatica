@@ -1,17 +1,7 @@
-<!-- header terminal -->
+<!-- HEADER TERMINAL -->
 <div align="center">
-
-```
-$ whoami
-enzo_gatica — full stack engineer 🇨🇱
-$ current_job
-frontend dev @ Prompt and Plai · AI-powered QA platform
-```
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;enzo_gatica+%E2%80%94+full+stack+engineer+%F0%9F%87%A8%F0%9F%87%B1;%24+current_job;frontend+dev+%40+Prompt+and+Plai" alt="Typing SVG" />
 </div>
-
-<!-- GIF del dino — reemplaza el src con tu GIF si lo tienes en el repo -->
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 ---
 
@@ -24,7 +14,7 @@ frontend dev @ Prompt and Plai · AI-powered QA platform
 ### About me
 
 | | |
-|---|---|
+|:---:|:---|
 | 🎓 | Computer engineer — IP Virginio Gómez |
 | 💼 | Building QA automation with AI at **Prompt and Plai** |
 | 🌊 | Traveler, sea lover & mobile dev curious |
@@ -55,19 +45,12 @@ frontend dev @ Prompt and Plai · AI-powered QA platform
 
 ### Experience
 
-```
-● Frontend Developer — Prompt and Plai          Dic 2025 → presente
-  AI-powered QA automation platform · Remoto
-
-● Full Stack Next.js — Abod                     Sep 2023 → May 2024
-  Plataforma web full stack · Madrid (remoto)
-
-● Full Stack PHP — RoundRobin                   Feb 2024 → Oct 2024
-  Web apps desde cero · Concepción
-
-◌ Freelancer Web                                Dic 2022 → presente
-  Vue.js, React, HTML/CSS · Concepción – Tomé
-```
+| | Role | Company | Period |
+|:---:|:---|:---|:---|
+| 🟢 | **Frontend Developer** | Prompt and Plai · AI-powered QA · Remoto | Dic 2025 → presente |
+| 🔵 | **Full Stack Next.js** | Abod · Plataforma web full stack · Madrid (remoto) | Sep 2023 → May 2024 |
+| 🔵 | **Full Stack PHP** | RoundRobin · Web apps desde cero · Concepción | Feb 2024 → Oct 2024 |
+| ⚪ | **Freelancer Web** | Vue.js, React, HTML/CSS · Concepción – Tomé | Dic 2022 → presente |
 
 ---
 
