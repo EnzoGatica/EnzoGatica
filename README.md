@@ -69,8 +69,8 @@ Vivo en Tomé, en la costa del Biobío, y trabajo remoto.
 ## GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" alt="Estadísticas de GitHub" />
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" alt="Lenguajes más usados" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" alt="Estadísticas de GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" alt="Lenguajes más usados" />
 </div>
 
 ---
