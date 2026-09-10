@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%24+whoami;enzo+gatica+%E2%80%94+ingeniero+full+stack;%24+stack;typescript+%C2%B7+react+%C2%B7+node.js;%24+ubicacion;tom%C3%A9%2C+chile+%E2%80%94+remoto" alt="enzo gatica — ingeniero full stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%24+whoami;enzo+gatica+%E2%80%94+ingeniero+full+stack;%24+stack;typescript+%C2%B7+react+%C2%B7+node.js;%24+ubicacion;regi%C3%B3n+del+biob%C3%ADo%2C+chile+%E2%80%94+remoto" alt="enzo gatica — ingeniero full stack" />
 </div>
 
 <h1 align="center">Enzo Gatica</h1>
@@ -26,7 +26,7 @@ Trabajo con IA generativa desde 2020, antes de que fuera un ítem obligatorio en
 de trabajo. Me interesa el punto donde el producto y el detalle técnico se tocan: por qué una
 página carga en un segundo o en cinco, por qué una interfaz se siente cara o barata.
 
-Vivo en Tomé, en la costa del Biobío, y trabajo remoto.
+Región del Biobío, Chile. Trabajo remoto.
 
 ---
 
@@ -57,12 +57,11 @@ Vivo en Tomé, en la costa del Biobío, y trabajo remoto.
 
 ## Experiencia
 
-| | Rol | Dónde | Período |
+| | Rol | Dónde | |
 |:---:|:---|:---|:---|
-| 🟢 | **Frontend Developer** | Prompt and Plai — automatización de QA con IA · remoto | Dic 2025 → presente |
-| ⚪ | **Full Stack PHP** | RoundRobin — aplicaciones web desde cero · Concepción | Feb 2024 → Oct 2024 |
-| ⚪ | **Full Stack Next.js** | Abod — plataforma web · Madrid (remoto) | Sep 2023 → May 2024 |
-| ⚪ | **Desarrollador web freelance** | Vue, React, HTML/CSS · Concepción – Tomé | Dic 2022 → presente |
+| 🟢 | **Frontend Developer** | Prompt and Plai — automatización de QA con IA · remoto | 2025 → presente |
+| ⚪ | **Full Stack Next.js** | Abod — plataforma web · remoto | 2023 – 2024 |
+| ⚪ | **Desarrollador web freelance** | Vue, React, HTML/CSS | 2022 → presente |
 
 ---
 
@@ -79,7 +78,7 @@ Abierto a trabajo remoto y proyectos freelance.
 
 <br />
 
-**Full Stack Engineer** — TypeScript, React, Node.js. Based in Tomé, on the Chilean coast, working remotely.
+**Full Stack Engineer** — TypeScript, React, Node.js. Based in the Biobío Region, Chile. Available remotely.
 
 I'm a computer engineer currently working as a **frontend developer at Prompt and Plai**, building
 AI-powered QA automation. I've been working with generative AI since 2020, well before it became a
