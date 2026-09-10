@@ -1,92 +1,108 @@
-<!-- HEADER TERMINAL -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%24+whoami;enzo_gatica+%E2%80%94+full+stack+engineer+%F0%9F%87%A8%F0%9F%87%B1;%24+current_job;frontend+dev+%40+Prompt+and+Plai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=%24+whoami;enzo+gatica+%E2%80%94+ingeniero+full+stack;%24+stack;typescript+%C2%B7+react+%C2%B7+node.js;%24+ubicacion;tom%C3%A9%2C+chile+%E2%80%94+remoto" alt="enzo gatica — ingeniero full stack" />
 </div>
 
-<!-- DINO RUNNER -->
-<div align="center">
+<h1 align="center">Enzo Gatica</h1>
 
-```
-HI 00078  00152
+<p align="center">
+  <strong>Ingeniero Full Stack</strong> · TypeScript · React · Node.js<br />
+  Construyo plataformas web que llegan a producción, desde 2022.
+</p>
 
-🦕  ☁️        ☁️                          🌵
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
----
-
-## Hi there, I'm [Enzo Gatica](https://www.linkedin.com/in/enzogatica) 👋
-
-**Full Stack Engineer · TypeScript / React / Node.js**
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzogatica"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://enzog.tricoshop.top"><img src="https://img.shields.io/badge/Portafolio-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+  <a href="mailto:enzogatica96@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-### About me
+## Sobre mí
 
-| | |
-|:---:|:---|
-| 🎓 | Computer engineer — IP Virginio Gómez |
-| 💼 | Building QA automation with AI at **Prompt and Plai** |
-| 🌊 | Traveler, sea lover & mobile dev curious |
-| 💌 | [enzogatica96@gmail.com](mailto:enzogatica96@gmail.com) |
+Ingeniero en computación (IP Virginio Gómez), hoy **frontend developer en Prompt and Plai**,
+donde trabajo en automatización de QA con IA.
+
+Trabajo con IA generativa desde 2020, antes de que fuera un ítem obligatorio en las ofertas
+de trabajo. Me interesa el punto donde el producto y el detalle técnico se tocan: por qué una
+página carga en un segundo o en cinco, por qué una interfaz se siente cara o barata.
+
+Vivo en Tomé, en la costa del Biobío, y trabajo remoto.
 
 ---
 
-### Languages & Tools
+## Proyectos
+
+| Proyecto | De qué se trata | Stack |
+|:---|:---|:---|
+| **[Scroll Cinemático](https://github.com/EnzoGatica/scroll-cinematico)** · [ver en vivo](https://enzogatica.github.io/scroll-cinematico/) | Landing donde el scroll dirige la escena: ocho efectos, uno por sección, incluido un vuelo de dron que avanza y retrocede cuadro a cuadro sobre canvas. Sin librerías que secuestren el scroll. | Next.js 15 · React 19 · Motion |
+| **[EsferaThree](https://github.com/EnzoGatica/EsferaThree)** · [ver en vivo](https://enzogatica.github.io/EsferaThree/) | Experiencia 3D en el navegador: escena, iluminación y controles de cámara sin framework de por medio. | Three.js · JavaScript |
+| **[Flores con Transfer Learning](https://github.com/EnzoGatica/Flores-con-Transfer-Learning)** | Clasificador de especies de flores reentrenando una CNN preentrenada. El notebook documenta el proceso y los resultados. | Python · TensorFlow |
+| **[Cartelera de Cine](https://github.com/EnzoGatica/Cartelera-Cine-React)** | Cartelera que consume una API externa: búsqueda, detalle de película y manejo de estado en componentes. | React · REST |
+
+---
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<sub>También he trabajado con PHP, Kotlin, Java, MongoDB y MySQL.</sub>
 
 ---
 
-### Experience
+## Experiencia
 
-| | Role | Company | Period |
+| | Rol | Dónde | Período |
 |:---:|:---|:---|:---|
-| 🟢 | **Frontend Developer** | Prompt and Plai · AI-powered QA · Remoto | Dic 2025 → presente |
-| 🔵 | **Full Stack Next.js** | Abod · Plataforma web full stack · Madrid (remoto) | Sep 2023 → May 2024 |
-| 🔵 | **Full Stack PHP** | RoundRobin · Web apps desde cero · Concepción | Feb 2024 → Oct 2024 |
-| ⚪ | **Freelancer Web** | Vue.js, React, HTML/CSS · Concepción – Tomé | Dic 2022 → presente |
+| 🟢 | **Frontend Developer** | Prompt and Plai — automatización de QA con IA · remoto | Dic 2025 → presente |
+| ⚪ | **Full Stack PHP** | RoundRobin — aplicaciones web desde cero · Concepción | Feb 2024 → Oct 2024 |
+| ⚪ | **Full Stack Next.js** | Abod — plataforma web · Madrid (remoto) | Sep 2023 → May 2024 |
+| ⚪ | **Desarrollador web freelance** | Vue, React, HTML/CSS · Concepción – Tomé | Dic 2022 → presente |
 
 ---
 
-### GitHub Stats
+## GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnzoGatica&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3" alt="Estadísticas de GitHub" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnzoGatica&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" alt="Lenguajes más usados" />
 </div>
 
 ---
 
-### ✨ Where you can find me ✨
+<details>
+<summary><strong>🇬🇧 In English</strong></summary>
+
+<br />
+
+**Full Stack Engineer** — TypeScript, React, Node.js. Based in Tomé, on the Chilean coast, working remotely.
+
+I'm a computer engineer currently working as a **frontend developer at Prompt and Plai**, building
+AI-powered QA automation. I've been working with generative AI since 2020, well before it became a
+standard line in job postings.
+
+What I care about is where product meets engineering detail: why a page loads in one second instead
+of five, why an interface feels expensive or cheap.
+
+**Selected work**
+
+- **[Scroll Cinemático](https://github.com/EnzoGatica/scroll-cinematico)** — [live demo](https://enzogatica.github.io/scroll-cinematico/) — a landing page driven entirely by scroll: eight effects, including a drone flight scrubbed frame by frame on canvas. Next.js 15, React 19, Motion.
+- **[EsferaThree](https://github.com/EnzoGatica/EsferaThree)** — [live demo](https://enzogatica.github.io/EsferaThree/) — an interactive 3D scene in the browser with Three.js, no framework.
+- **[Flowers with Transfer Learning](https://github.com/EnzoGatica/Flores-con-Transfer-Learning)** — image classifier built by retraining a pretrained CNN, documented end to end in a notebook.
+
+Open to remote roles and freelance work. Reach me at
+[enzogatica96@gmail.com](mailto:enzogatica96@gmail.com) or on
+[LinkedIn](https://www.linkedin.com/in/enzogatica).
+
+</details>
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enzogatica">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EnzoGatica">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://enzog.tricoshop.top">
-    <img src="https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <sub>¿Un proyecto en mente? <a href="mailto:enzogatica96@gmail.com">enzogatica96@gmail.com</a></sub>
 </p>
